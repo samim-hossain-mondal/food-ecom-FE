@@ -1,0 +1,17 @@
+.search{
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    padding: 20px;
+}
+
+.search > input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.search > button{
+    border-style: none;
+    background-color: white;
+}
